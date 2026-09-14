@@ -7,14 +7,14 @@
 
 ## 1. Bài độc lập và nguồn dữ liệu
 
-- Mã SHA-256 của ZIP ảnh được cấp:
-- Bốn mã ảnh:
-- Số vật thể thực tế:
-- Mã SHA-256 của gói YOLO của bạn:
-- Mã SHA-256 của gói CVAT gốc của bạn:
-- Nguồn đối chiếu: bạn cùng cặp hoặc bộ tham chiếu do người hướng dẫn thực hành cấp:
-- Mã SHA-256 của gói đối chiếu:
-- Nếu làm cá nhân, ghi mã lần phát và thời điểm nhận bộ tham chiếu:
+- Mã SHA-256 của ZIP ảnh được cấp: 2d26949a8419e3b877e3633fc51d4090e3360565511cf501abf401d4e93b6900
+- Bốn mã ảnh: drive_022, drive_033, drive_038, drive_008
+- Số vật thể thực tế: 442
+- Mã SHA-256 của gói YOLO của bạn: 9959063d4b4748d9cd3a84a6347f95a1e54ce29a27529e35696e88cc5886c83a
+- Mã SHA-256 của gói CVAT gốc của bạn: d1265f372eb0a78949120f7d6fe3cd08edfc567a962e6d42042d7cc0e0af902a
+- Nguồn đối chiếu:SQiFeng/traffic-vehicle-detection
+- Mã SHA-256 của gói đối chiếu: 710d2c157c5750f71271354d0d31b24457c64e7c
+- Nếu làm cá nhân, ghi mã lần phát và thời điểm nhận bộ tham chiếu: 17, 16:32, 14/9/2026
 
 Giải thích vì sao bài của bạn vẫn độc lập trước khi đối chiếu:
 
